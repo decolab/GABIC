@@ -1,4 +1,4 @@
-# nhb-ndte
+# Generative Anatomically-Constrained Bidirectional Connectivity
 MATLAB code for Deco, Vidaurre and Kringelbach paper in Nature Human Behaviour:
 Deco, G., Vidaurre, D. & Kringelbach, M.L. Revisiting the global workspace orchestrating the hierarchical organization of the human brain. Nat Hum Behav 5, 497–511 (2021). https://doi.org/10.1038/s41562-020-01003-6
 

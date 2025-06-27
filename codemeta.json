@@ -2,15 +2,7 @@
   "@context": "https://w3id.org/codemeta/3.0",
   "@type": "SoftwareSourceCode",
   "name": "GABIC",
-  "description": "This repository provides the MATLAB implementation of the GABIC (Generative Anatomically-Constrained Bidirectional Connectivity) framework\n"
-    "developed to estimate directed effective connectivity by fitting whole-brain Hopf oscillator models to empirical neuroimaging data.\n"
-    "The model integrates structural connectivity (SC) matrices derived from diffusion MRI and NDTE (Normalized Directed Transfer Entropy) flow from resting-state fMRI\n"
-    "to infer asymmetric coupling parameters that best reproduce empirically observed causal interactions across brain regions.\n\n"
-    "The computational pipeline employs particle swarm optimization to fit model dynamics to NDTE targets,\n"
-    "enabling the exploration of functional hierarchies and causal roles of specific regions, including the global neuronal workspace.\n"
-    "It allows researchers to conduct in silico lesion analyses, examine information flow, and test mechanistic hypotheses about brain coordination and hierarchy.\n\n"
-    "For methodology, input structure, and usage instructions, see the full README file:\n"
-    "[README.md](https://github.com/decolab/GABIC/blob/master/README.md) (https://github.com/decolab/GABIC/blob/master/README.md)",
+  "description": "This repository provides the MATLAB implementation of the GABIC (Generative Anatomically-Constrained Bidirectional Connectivity) framework\ndeveloped to estimate directed effective connectivity by fitting whole-brain Hopf oscillator models to empirical neuroimaging data.\nThe model integrates structural connectivity (SC) matrices derived from diffusion MRI and NDTE (Normalized Directed Transfer Entropy) flow from resting-state fMRI\nto infer asymmetric coupling parameters that best reproduce empirically observed causal interactions across brain regions.\n\nThe computational pipeline employs particle swarm optimization to fit model dynamics to NDTE targets,\nenabling the exploration of functional hierarchies and causal roles of specific regions, including the global neuronal workspace.\nIt allows researchers to conduct in silico lesion analyses, examine information flow, and test mechanistic hypotheses about brain coordination and hierarchy.\n\nFor methodology, input structure, and usage instructions, see the full README file:\n[README.md](https://github.com/decolab/GABIC/blob/master/README.md) (https://github.com/decolab/GABIC/blob/master/README.md)",
   "codeRepository": "https://github.com/decolab/GABIC",
   "downloadUrl": "https://github.com/decolab/GABIC/releases/tag/v1.0.0",
   "dateCreated": "2021-03-30",
